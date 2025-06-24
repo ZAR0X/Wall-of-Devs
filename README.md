@@ -4,15 +4,21 @@ Welcome to the official PR challenge from our **"Everything About Git & GitHub"*
 
 This repo is a simple JSON-powered wall to showcase the amazing devs who took part in the challenge. All you have to do is:
 
-## 🎯 Your Task
+## 📝 What You’ll Do:
 
-Add your name, GitHub profile link, and your favorite programming language to the `devs.json` file.
-
-Here’s an example of what your entry should look like:
+1. **Fork** the repo.
+2. **Clone** it locally.
+3. **Edit** <code>devs.json</code> and add a new object like this with your information:
 
 ```json
 {
-  "name": "Zarox",
-  "github": "https://github.com/Zaroxx",
-  "language": "python"
+    "name": "Zarox",
+    "github": "https://github.com/ZAR0X",
+    "language": "python"
 }
+```
+
+4. **Commit + push** your changes.
+5. **Open a Pull Request.**
+
+Add your entry to the list, submit a pull request, and boom — you're on the wall 🧱✨
